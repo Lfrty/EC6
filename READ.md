@@ -1,3 +1,3 @@
 Prueba EC6
 
-npm init to install dependencies in package.json
+npm install to install dependencies in package.json
